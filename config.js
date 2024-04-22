@@ -18,6 +18,7 @@ global.owner = [
 ['593968585383'],
 ["5215649706747"]]
 
+
 global.mods = [] 
 global.prems = []
 
